@@ -3,7 +3,7 @@
 email = 'datallah@umich.edu'
 pswrd = 'sabsihdan'
 client_id = 'ab8fa8e7dae440419150fc06881fb815'
-client_secret = '2e2fb26f3ab34891966d689bb2994725'
+client_secret = 'bc54a28db7b2403a8555809b161ea2ca'
 scope = "user-library-read"
 min_yr = 1971
 max_yr = 2021
